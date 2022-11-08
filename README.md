@@ -2,16 +2,20 @@
 
 
 ## profil
-Nama: Ricky Alfian Saputra
-
-NIM : 312210279
-
-Kelas: TI.22.A4
+| Variable | Isi |
+| -------- | --- |
+| **Nama** | Ricky Alfian Saputra |
+| **NIM** | 312210279 |
+| **Kelas** | TI.22.A.4 |
+| **Mata Kuliah** | Bahasa Pemrograman |
 
 
 ## Tugas Struktur kondisi
 ### Latihan 1
 Buat program sederhada dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if.
+
+### Flowchart
+![](/Tugas%207/flowchart-bilangan-terbesar.png)
 
 #Masukan input 
 bil1 = int (input("Masukan bilangan : "))
