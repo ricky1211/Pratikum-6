@@ -2,9 +2,9 @@
 
 
 ## profil
-Nama : Ricky Alfian Saputra
-Nim  : 312210279
-Kelas: TI.22.A4
+#Nama : Ricky Alfian Saputra
+##Nim  : 312210279
+###Kelas: TI.22.A4
 
 ## Tugas Struktur kondisi
 ### Latihan 1
