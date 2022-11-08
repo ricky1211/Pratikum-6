@@ -2,10 +2,16 @@
 
 
 ## profil
-#Nama : Ricky Alfian Saputra
-##Nim  : 312210279
-###Kelas: TI.22.A4
-
+<table border="1">
+   <tr>
+   <td>Nama</td>
+   <td>Ricky Alfian Saputra</td>
+   <tr>
+   <td>NIM</td>
+   <td>312210279</td>
+   <tr>
+   <td>Kelas</td>
+   <td>TI.22.A4</td>
 ## Tugas Struktur kondisi
 ### Latihan 1
 Buat program sederhada dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if.
